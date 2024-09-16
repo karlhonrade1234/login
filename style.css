@@ -1,0 +1,35 @@
+.title{
+    color: red;
+}
+
+
+
+
+body{
+    background:url(https://i.redd.it/bpxxqqvps4h91.gif);
+    background-position: center;
+    background-size: cover; width: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: rgb(12, 237, 124);
+}
+
+label{
+    color:rgb(17, 255, 0)
+}
+
+a{
+  color: rgb(0, 0, 0);
+
+}
+
+.container{
+    border: 100px;
+}
+
+.login{
+    color: antiquewhite;
+}
